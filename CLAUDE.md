@@ -36,11 +36,26 @@ The meaning must be easier to read than the word it explains.
 Put one emoji before the word when one clearly shows it: 🍎 apple. Leave it
 out when none does — a misleading picture is worse than none.
 
+## More than one meaning
+
+Give a word a second meaning only when a kid needs both — *orange* is the
+fruit and the color. Then number the meanings and keep the numbers lined up:
+
+- 한국어 뜻 and English meaning are numbered lists, one item per meaning.
+  Each English item follows the rules above on its own.
+- Examples has one example per meaning, numbered the same way.
+- The part-of-speech line lists every part of speech the meanings use:
+  *noun, adjective* · 명사, 형용사.
+- The README row lists every Korean meaning: 오렌지, 주황색.
+
+[words/orange.md](words/orange.md) is the model.
+
 ## Keeping it consistent
 
-If a word needs something the template does not cover — a second meaning, an
-irregular plural — extend [TEMPLATE.md](TEMPLATE.md) and these rules in the
-same change, so every later entry takes the same shape.
+If a word needs something these rules do not cover yet — an irregular plural,
+say — write the rule in the same change, and update [TEMPLATE.md](TEMPLATE.md)
+too if every entry should follow it. Every later entry then takes the same
+shape.
 
 ## Site
 
