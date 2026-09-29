@@ -11,6 +11,7 @@ sentences.
 | Word | 한국어 뜻 |
 | --- | --- |
 | [🍎 apple](words/apple.md) | 사과 |
+| [🍌 banana](words/banana.md) | 바나나 |
 
 ## Adding a word
 
