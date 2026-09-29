@@ -42,6 +42,14 @@ If a word needs something the template does not cover — a second meaning, an
 irregular plural — extend [TEMPLATE.md](TEMPLATE.md) and these rules in the
 same change, so every later entry takes the same shape.
 
+## Site
+
+Pushing to `main` publishes the dictionary to
+<https://ctbot000.github.io/kids-dictionary/> through GitHub Pages. The README
+is the home page and each file in `words/` becomes a page with no front matter
+needed; `_config.yml` explains the build. After pushing a new word, check its
+page on the site.
+
 ## Git
 
 Commit and push to `main` once the entry and its row in the README table are

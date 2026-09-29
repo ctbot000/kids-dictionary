@@ -1,0 +1,25 @@
+# GitHub Pages build settings.
+#
+# The site is this repository's Markdown, turned into pages by plugins GitHub
+# Pages enables by default, so none are declared here:
+#   jekyll-readme-index          — README.md, with the word list, is the home page
+#   jekyll-optional-front-matter — word pages need no front matter
+#   jekyll-default-layout        — pages with no layout get _layouts/default.html
+#   jekyll-titles-from-headings  — each page's title is its first heading
+#   jekyll-relative-links        — links to *.md point at the built pages
+#
+# Never add an INDEX.md at the root: jekyll-readme-index matches index files
+# case-insensitively, counts it as the home page, and / then returns 404.
+#
+# Markdown is rendered by CommonMark, the processor GitHub.com itself uses, so
+# a page looks the same on the site as in the repository.
+
+title: Kids Dictionary
+description: An English dictionary for Korean-speaking kids, with Korean meanings and easy English definitions.
+url: https://ctbot000.github.io
+baseurl: /kids-dictionary
+
+markdown: CommonMarkGhPages
+commonmark:
+  options: [UNSAFE]
+  extensions: [strikethrough, autolink, table, tagfilter]
