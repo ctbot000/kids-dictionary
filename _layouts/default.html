@@ -72,11 +72,30 @@
   th { background: var(--tint); }
   tr:last-child td { border-bottom: 0; }
   td a { font-weight: 700; text-decoration: none; }
-  /* A word page: big headword, part of speech under it, big Korean meanings
-     (one, or a numbered list), and each example's translation under it
+  /* A word page: big headword; its pronunciation, with the loudest syllable in
+     the accent colour and a 🔊 button; the part of speech; big Korean meanings
+     (one, or a numbered list); and each example's translation under it
      without a second bullet. */
   .word h1 { font-size: clamp(2.75rem, 2rem + 4vw, 4rem); margin-bottom: 0.25rem; }
-  .word h1 + p { color: var(--muted); }
+  .word h1 + p { font-size: 1.25rem; margin-bottom: 0.25rem; }
+  .word h1 + p strong { color: var(--accent); }
+  .word h1 + p + p { color: var(--muted); }
+  .say {
+    font: inherit;
+    line-height: 1;
+    min-width: 2.75rem;   /* a finger-sized target */
+    min-height: 2.75rem;
+    margin-left: 0.25rem;
+    padding: 0 0.6em;
+    color: inherit;
+    background: var(--card);
+    border: 2px solid var(--rule);
+    border-radius: 999px;
+    cursor: pointer;
+    vertical-align: middle;
+  }
+  .say:hover { border-color: var(--accent); }
+  .say:focus-visible { outline: 3px solid var(--link); outline-offset: 2px; }
   .word h2 + p > strong:only-child,
   .word h2 + ol > li:has(> strong:only-child) { font-size: 1.6rem; }
   .word li > ul { list-style: none; padding-left: 0; margin: 0 0 0.75rem; color: var(--muted); }
@@ -106,5 +125,50 @@
     <a href="https://github.com/{{ site.github.repository_nwo | default: 'ctbot000/kids-dictionary' }}">Source on GitHub</a>
   </footer>
 </div>
+{%- if page.path contains "words/" %}
+<script>
+  // 🔊 next to the pronunciation says the headword aloud. The voice is chosen
+  // by hand: an utterance otherwise gets the system locale's voice, which on a
+  // Korean machine reads English with Korean sounds.
+  (() => {
+    const synth = window.speechSynthesis;
+    const h1 = document.querySelector("main h1");
+    if (!synth || !h1) return;
+    // Letters only, so the title emoji is not read out by name.
+    const word = h1.textContent.replace(/[^\p{L}\s'’-]/gu, "").replace(/\s+/g, " ").trim();
+
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "say";
+    button.textContent = "🔊";
+    button.title = "Listen · 듣기";
+    button.setAttribute("aria-label", `Listen: ${word}`);
+
+    let voice = null;
+    const pickVoice = () => {
+      const voices = synth.getVoices();
+      const english = voices.filter((v) => /^en([-_]|$)/i.test(v.lang));
+      const us = english.filter((v) => /^en[-_]US$/i.test(v.lang));
+      voice = us.find((v) => v.localService) || us[0] || english[0] || null;
+      // No English voice at all: a button that speaks gibberish is worse than none.
+      button.hidden = voices.length > 0 && !voice;
+    };
+    pickVoice();
+    synth.addEventListener("voiceschanged", pickVoice);
+
+    button.addEventListener("click", () => {
+      const utterance = new SpeechSynthesisUtterance(word);
+      utterance.lang = voice ? voice.lang.replace("_", "-") : "en-US";
+      if (voice) utterance.voice = voice;
+      utterance.rate = 0.85;
+      synth.cancel();
+      synth.speak(utterance);
+    });
+
+    const line = h1.nextElementSibling;
+    (line && line.tagName === "P" ? line : h1).append(" ", button);
+  })();
+</script>
+{%- endif %}
 </body>
 </html>

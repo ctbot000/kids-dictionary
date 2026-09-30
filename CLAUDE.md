@@ -5,6 +5,15 @@ This repository is an English dictionary for Korean-speaking kids. Read
 
 The reader is a young child who is still learning English.
 
+## Pronunciation
+
+The line under the title says the word two ways: American English in IPA, then
+the same sounds in Hangul for a kid who cannot read IPA yet.
+
+- IPA between slashes, with ˈ before the loudest syllable: /bəˈnænə/.
+- Hangul that follows the English sounds, not the Korean loanword: *banana* is
+  버**내**너, not 바나나. Bold the loudest syllable.
+
 ## English meaning
 
 The meaning must be easier to read than the word it explains.
@@ -62,8 +71,9 @@ shape.
 Pushing to `main` publishes the dictionary to
 <https://ctbot000.github.io/kids-dictionary/> through GitHub Pages. The README
 is the home page and each file in `words/` becomes a page with no front matter
-needed; `_config.yml` explains the build. After pushing a new word, check its
-page on the site.
+needed; `_config.yml` explains the build. Word pages get a 🔊 button that says
+the word with the browser's own English voice, so an entry needs nothing extra
+for it. After pushing a new word, check its page on the site.
 
 ## Git
 

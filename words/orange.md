@@ -1,5 +1,7 @@
 # 🍊 orange
 
+/ˈɔːrɪndʒ/ · **오**린지
+
 *noun, adjective* · 명사, 형용사
 
 ## 한국어 뜻

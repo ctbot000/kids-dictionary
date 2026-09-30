@@ -1,5 +1,7 @@
 # {emoji} {word}
 
+/{IPA}/ · {Hangul, with the loudest syllable in **bold**}
+
 *{part of speech}* · {품사}
 
 ## 한국어 뜻
