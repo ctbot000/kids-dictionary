@@ -13,6 +13,7 @@ and example sentences. In the pronunciation, say the **bold** part loudest.
 | --- | --- |
 | [🍎 apple](words/apple.md) | 사과 |
 | [🍌 banana](words/banana.md) | 바나나 |
+| [🐱 cat](words/cat.md) | 고양이 |
 | [🍊 orange](words/orange.md) | 오렌지, 주황색 |
 
 ## Adding a word
