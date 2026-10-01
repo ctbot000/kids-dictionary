@@ -18,6 +18,9 @@
     --rule: #efe6d8;
     --card: #ffffff;
     --tint: #fff4e0;
+    --right: #1a7f37;
+    --right-bg: #dafbe1;
+    --wrong: #cf222e;
   }
   @media (prefers-color-scheme: dark) {
     :root {
@@ -29,6 +32,9 @@
       --rule: #343849;
       --card: #232634;
       --tint: #2b2f40;
+      --right: #3fb950;
+      --right-bg: #12361d;
+      --wrong: #f85149;
     }
   }
   * { box-sizing: border-box; }
@@ -96,6 +102,28 @@
   }
   .say:hover { border-color: var(--accent); }
   .say:focus-visible { outline: 3px solid var(--link); outline-offset: 2px; }
+  /* Quiz: the script turns each question's choices into these buttons. */
+  .choices { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.5rem 0 0.25rem; }
+  .choices button {
+    font: inherit;
+    min-height: 2.75rem;
+    padding: 0.35rem 1rem;
+    color: inherit;
+    background: var(--card);
+    border: 2px solid var(--rule);
+    border-radius: 999px;
+    cursor: pointer;
+  }
+  .choices button:hover:enabled { border-color: var(--accent); }
+  .choices button:focus-visible { outline: 3px solid var(--link); outline-offset: 2px; }
+  .choices button:disabled { cursor: default; }
+  .choices button:disabled:not(.right, .wrong) { opacity: 0.6; }
+  .choices button.right { border-color: var(--right); background: var(--right-bg); font-weight: 700; }
+  .choices button.wrong { border-color: var(--wrong); color: var(--muted); text-decoration: line-through; }
+  .feedback { min-height: 1.7em; margin: 0 0 0.75rem; font-weight: 700; }
+  .feedback.right { color: var(--right); }
+  .feedback.wrong { color: var(--wrong); }
+  .done { font-size: 1.25rem; font-weight: 700; color: var(--right); }
   .word h2 + p > strong:only-child,
   .word h2 + ol > li:has(> strong:only-child) { font-size: 1.6rem; }
   .word li > ul { list-style: none; padding-left: 0; margin: 0 0 0.75rem; color: var(--muted); }
@@ -167,6 +195,75 @@
 
     const line = h1.nextElementSibling;
     (line && line.tagName === "P" ? line : h1).append(" ", button);
+  })();
+
+  // Quiz: each question's choices become buttons, checked against the answer
+  // key in the <details> under the questions. Without JavaScript, or when the
+  // key does not match the choices, the quiz stays as written.
+  (() => {
+    const heading = [...document.querySelectorAll("main h2")]
+      .find((h) => h.textContent.trim() === "Quiz");
+    const list = heading && heading.nextElementSibling;
+    const key = list && list.nextElementSibling;
+    if (!list || list.tagName !== "OL" || !key || key.tagName !== "DETAILS") return;
+
+    const answers = [...key.querySelectorAll("li")].map((li) => li.textContent.trim());
+    const questions = [...list.children].map((item, i) => {
+      const choices = item.querySelector(":scope > ul");
+      return {
+        choices,
+        texts: choices ? [...choices.children].map((li) => li.textContent.trim()) : [],
+        answer: answers[i],
+      };
+    });
+    if (answers.length !== questions.length
+        || questions.some((q) => !q.choices || !q.texts.includes(q.answer))) return;
+
+    const done = document.createElement("p");
+    done.className = "done";
+    done.hidden = true;
+    done.textContent = "🎉 You got them all! · 다 맞혔어요!";
+    let left = questions.length;
+
+    for (const q of questions) {
+      const box = document.createElement("div");
+      box.className = "choices";
+      const feedback = document.createElement("p");
+      feedback.className = "feedback";
+      feedback.setAttribute("aria-live", "polite");
+
+      // Shuffle, so the right answer is not always in the same place.
+      const texts = q.texts.slice();
+      for (let i = texts.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [texts[i], texts[j]] = [texts[j], texts[i]];
+      }
+      for (const text of texts) {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.textContent = text;
+        button.addEventListener("click", () => {
+          if (text === q.answer) {
+            button.classList.add("right");
+            box.querySelectorAll("button").forEach((b) => { b.disabled = true; });
+            feedback.className = "feedback right";
+            feedback.textContent = "⭕ Right! · 맞았어요!";
+            left -= 1;
+            done.hidden = left > 0;
+          } else {
+            button.classList.add("wrong");
+            button.disabled = true;
+            feedback.className = "feedback wrong";
+            feedback.textContent = "❌ Try again · 다시 골라 봐요";
+          }
+        });
+        box.append(button);
+      }
+      q.choices.replaceWith(box);
+      box.after(feedback);
+    }
+    key.hidden = true;
+    list.after(done);
   })();
 </script>
 {%- endif %}

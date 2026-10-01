@@ -45,6 +45,21 @@ The meaning must be easier to read than the word it explains.
 Put one emoji before the word when one clearly shows it: 🍎 apple. Leave it
 out when none does — a misleading picture is worse than none.
 
+## Quiz
+
+Three questions that check the English meaning, so a kid finds out whether
+they understood it.
+
+- Ask only about what the English meaning says, in its words or easier ones:
+  *What does a cat say?*
+- Three choices per question, exactly one right. Make the wrong ones plainly
+  wrong — silly is fine — never half true: a banana is not "black", because
+  old ones are.
+- Vary where the right choice sits. The site shuffles them anyway.
+- List the answers in order in the `<details>` block, written exactly like the
+  right choice. The site checks taps against it, and leaves a quiz whose
+  answers do not match as plain text.
+
 ## More than one meaning
 
 Give a word a second meaning only when a kid needs both — *orange* is the
@@ -53,6 +68,7 @@ fruit and the color. Then number the meanings and keep the numbers lined up:
 - 한국어 뜻 and English meaning are numbered lists, one item per meaning.
   Each English item follows the rules above on its own.
 - Examples has one example per meaning, numbered the same way.
+- The quiz asks about every meaning.
 - The part-of-speech line lists every part of speech the meanings use:
   *noun, adjective* · 명사, 형용사.
 - The README row lists every Korean meaning: 오렌지, 주황색.
@@ -71,9 +87,10 @@ shape.
 Pushing to `main` publishes the dictionary to
 <https://ctbot000.github.io/kids-dictionary/> through GitHub Pages. The README
 is the home page and each file in `words/` becomes a page with no front matter
-needed; `_config.yml` explains the build. Word pages get a 🔊 button that says
-the word with the browser's own English voice, so an entry needs nothing extra
-for it. After pushing a new word, check its page on the site.
+needed; `_config.yml` explains the build. On word pages, a 🔊 button says the
+word with the browser's own English voice, and the quiz choices become buttons
+to tap; both are done by the layout, so an entry needs nothing extra for them.
+After pushing a new word, check its page on the site.
 
 ## Git
 

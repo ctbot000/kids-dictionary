@@ -2,10 +2,11 @@
 
 An English dictionary for Korean-speaking kids. Every word comes with its
 pronunciation, its Korean meaning, an English meaning written in easy words,
-and example sentences. In the pronunciation, say the **bold** part loudest.
+example sentences, and a short quiz on the meaning. In the pronunciation, say
+the **bold** part loudest.
 
-어린이를 위한 영어 사전이에요. 낱말마다 발음, 한국어 뜻, 쉬운 영어 설명, 예문이
-있어요. 발음에서 **굵은 글자**는 가장 세게 읽어요.
+어린이를 위한 영어 사전이에요. 낱말마다 발음, 한국어 뜻, 쉬운 영어 설명, 예문,
+뜻을 확인하는 퀴즈가 있어요. 발음에서 **굵은 글자**는 가장 세게 읽어요.
 
 ## Words
 
