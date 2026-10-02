@@ -18,6 +18,9 @@ the **bold** part loudest.
 | [🐶 dog](words/dog.md) | 개 |
 | [🏝️ island](words/island.md) | 섬 |
 | [🍊 orange](words/orange.md) | 오렌지, 주황색 |
+| [🧦 pair](words/pair.md) | 쌍, 켤레, 짝 |
+| [🍐 pear](words/pear.md) | 배 |
+| [🌌 universe](words/universe.md) | 우주 |
 
 ## Adding a word
 

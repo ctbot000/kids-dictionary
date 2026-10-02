@@ -77,6 +77,16 @@ fruit and the color. Then number the meanings and keep the numbers lined up:
 
 [words/orange.md](words/orange.md) is the model.
 
+## Words that sound the same
+
+When another word sounds exactly the same — *pear* and *pair* — add a line
+under the part of speech in both entries, each pointing to the other:
+
+    👂 Sounds like [pair](pair.md) · 소리는 같고 뜻은 달라요.
+
+A quiz can then use the other word's meaning as a wrong choice: *What is a
+pear?* — *two things that go together*.
+
 ## Keeping it consistent
 
 If a word needs something these rules do not cover yet — an irregular plural,
