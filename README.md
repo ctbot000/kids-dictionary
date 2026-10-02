@@ -15,6 +15,7 @@ the **bold** part loudest.
 | [🍎 apple](words/apple.md) | 사과 |
 | [🍌 banana](words/banana.md) | 바나나 |
 | [🐱 cat](words/cat.md) | 고양이 |
+| [🐶 dog](words/dog.md) | 개 |
 | [🏝️ island](words/island.md) | 섬 |
 | [🍊 orange](words/orange.md) | 오렌지, 주황색 |
 

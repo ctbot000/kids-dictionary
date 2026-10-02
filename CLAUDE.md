@@ -11,6 +11,8 @@ The line under the title says the word two ways: American English in IPA, then
 the same sounds in Hangul for a kid who cannot read IPA yet.
 
 - IPA between slashes, with ˈ before the loudest syllable: /bəˈnænə/.
+- Where Americans say the vowel two ways, write /ɔː/: *dog* is /dɔːɡ/, not
+  /dɑːɡ/, so the same vowel looks the same in every entry.
 - Hangul that follows the English sounds, not the Korean loanword: *banana* is
   버**내**너, not 바나나. Bold the loudest syllable.
 
