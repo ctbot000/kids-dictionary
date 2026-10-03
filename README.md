@@ -17,9 +17,11 @@ the **bold** part loudest.
 | [🐱 cat](words/cat.md) | 고양이 |
 | [🐶 dog](words/dog.md) | 개 |
 | [🏝️ island](words/island.md) | 섬 |
+| [🥭 mango](words/mango.md) | 망고 |
 | [🍊 orange](words/orange.md) | 오렌지, 주황색 |
 | [🧦 pair](words/pair.md) | 쌍, 켤레, 짝 |
 | [🍐 pear](words/pear.md) | 배 |
+| [🍍 pineapple](words/pineapple.md) | 파인애플 |
 | [🌌 universe](words/universe.md) | 우주 |
 
 ## Adding a word
