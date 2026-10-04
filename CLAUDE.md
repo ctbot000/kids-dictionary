@@ -25,12 +25,15 @@ The meaning must be easier to read than the word it explains.
   word being explained, use a simpler one.
 - Start with what it is, as a full sentence — *An apple is a round fruit.* —
   then say what it looks like, what it does, or what it is for.
+- A verb starts with what doing it means, also as a full sentence: *When you
+  invite a friend, you ask them to come.*
 - Concrete over abstract: things a kid can see, hear, touch, taste, or do.
 
 ## 한국어 뜻
 
 - The everyday word a Korean child would say: *mom* is 엄마, not 어머니.
 - Only the meanings a kid needs. Leave out rare, technical, and adult senses.
+- A verb in its dictionary form: *invite* is 초대하다.
 
 ## Examples
 
@@ -41,6 +44,8 @@ The meaning must be easier to read than the word it explains.
   Keep punctuation outside the bold — `"**사과**"를`, not `**"사과"**를`:
   bold that ends in punctuation cannot close right before a Korean letter,
   and GitHub shows the asterisks instead.
+- A verb's Korean meaning is bold with its ending, as it appears in the
+  sentence: 미나가 나를 **초대했어요**.
 
 ## Title emoji
 
