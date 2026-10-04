@@ -23,6 +23,7 @@ the **bold** part loudest.
 | [🍊 orange](words/orange.md) | 오렌지, 주황색 |
 | [🧦 pair](words/pair.md) | 쌍, 켤레, 짝 |
 | [🍐 pear](words/pear.md) | 배 |
+| [✏️ pencil](words/pencil.md) | 연필 |
 | [🍍 pineapple](words/pineapple.md) | 파인애플 |
 | [🌌 universe](words/universe.md) | 우주 |
 
