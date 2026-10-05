@@ -22,6 +22,7 @@ the **bold** part loudest.
 | [invite](words/invite.md) | 초대하다 |
 | [🏝️ island](words/island.md) | 섬 |
 | [🥭 mango](words/mango.md) | 망고 |
+| [mine](words/mine.md) | 내 것 |
 | [🍊 orange](words/orange.md) | 오렌지, 주황색 |
 | [🧦 pair](words/pair.md) | 쌍, 켤레, 짝 |
 | [🍐 pear](words/pear.md) | 배 |
