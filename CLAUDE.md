@@ -26,14 +26,16 @@ The meaning must be easier to read than the word it explains.
 - Start with what it is, as a full sentence — *An apple is a round fruit.* —
   then say what it looks like, what it does, or what it is for.
 - A verb starts with what doing it means, also as a full sentence: *When you
-  invite a friend, you ask them to come.*
+  invite a friend, you ask them to come.* An adjective starts with what being
+  that way means: *If something is huge, it is very, very big.*
 - Concrete over abstract: things a kid can see, hear, touch, taste, or do.
 
 ## 한국어 뜻
 
 - The everyday word a Korean child would say: *mom* is 엄마, not 어머니.
 - Only the meanings a kid needs. Leave out rare, technical, and adult senses.
-- A verb in its dictionary form: *invite* is 초대하다.
+- A verb in its dictionary form: *invite* is 초대하다. An adjective in the
+  form that goes before a noun: *huge* is 아주 큰.
 
 ## Examples
 
