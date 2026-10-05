@@ -28,6 +28,7 @@ the **bold** part loudest.
 | [🍐 pear](words/pear.md) | 배 |
 | [✏️ pencil](words/pencil.md) | 연필 |
 | [🍍 pineapple](words/pineapple.md) | 파인애플 |
+| [trampoline](words/trampoline.md) | 트램펄린 |
 | [🌌 universe](words/universe.md) | 우주 |
 
 ## Adding a word
