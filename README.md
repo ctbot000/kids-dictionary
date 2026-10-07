@@ -27,6 +27,7 @@ the **bold** part loudest.
 | [🧦 pair](words/pair.md) | 쌍, 켤레, 짝 |
 | [🍐 pear](words/pear.md) | 배 |
 | [✏️ pencil](words/pencil.md) | 연필 |
+| [pet](words/pet.md) | 반려동물 |
 | [🍍 pineapple](words/pineapple.md) | 파인애플 |
 | [⛺ tent](words/tent.md) | 텐트 |
 | [trampoline](words/trampoline.md) | 트램펄린 |
