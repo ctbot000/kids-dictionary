@@ -21,6 +21,7 @@ the **bold** part loudest.
 | [☕ cafe](words/cafe.md) | 카페 |
 | [🏰 castle](words/castle.md) | 성 |
 | [🐱 cat](words/cat.md) | 고양이 |
+| [🥣 cereal](words/cereal.md) | 시리얼 |
 | [☕ coffee](words/coffee.md) | 커피 |
 | [🍪 cookie](words/cookie.md) | 쿠키 |
 | [🐶 dog](words/dog.md) | 개 |
@@ -34,6 +35,7 @@ the **bold** part loudest.
 | [💍 jewelry](words/jewelry.md) | 보석 |
 | [🧒 kid](words/kid.md) | 아이 |
 | [🥭 mango](words/mango.md) | 망고 |
+| [🥛 milk](words/milk.md) | 우유 |
 | [mine](words/mine.md) | 내 것, 광산 |
 | [⛰️ mountain](words/mountain.md) | 산 |
 | [often](words/often.md) | 자주 |
