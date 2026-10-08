@@ -16,6 +16,7 @@ the **bold** part loudest.
 | [🍎 apple](words/apple.md) | 사과 |
 | [👶 baby](words/baby.md) | 아기 |
 | [🍌 banana](words/banana.md) | 바나나 |
+| [🩸 blood](words/blood.md) | 피 |
 | [☕ cafe](words/cafe.md) | 카페 |
 | [🐱 cat](words/cat.md) | 고양이 |
 | [☕ coffee](words/coffee.md) | 커피 |
