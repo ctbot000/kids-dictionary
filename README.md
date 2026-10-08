@@ -19,6 +19,7 @@ the **bold** part loudest.
 | [🐱 cat](words/cat.md) | 고양이 |
 | [☕ coffee](words/coffee.md) | 커피 |
 | [🐶 dog](words/dog.md) | 개 |
+| [grown-up](words/grown-up.md) | 어른 |
 | [huge](words/huge.md) | 아주 큰, 거대한 |
 | [invite](words/invite.md) | 초대하다 |
 | [🏝️ island](words/island.md) | 섬 |
