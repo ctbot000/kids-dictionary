@@ -19,6 +19,7 @@ the **bold** part loudest.
 | [🛏️ bed](words/bed.md) | 침대 |
 | [🩸 blood](words/blood.md) | 피 |
 | [☕ cafe](words/cafe.md) | 카페 |
+| [🏰 castle](words/castle.md) | 성 |
 | [🐱 cat](words/cat.md) | 고양이 |
 | [☕ coffee](words/coffee.md) | 커피 |
 | [🍪 cookie](words/cookie.md) | 쿠키 |
@@ -48,6 +49,7 @@ the **bold** part loudest.
 | [trampoline](words/trampoline.md) | 트램펄린 |
 | [🌳 tree](words/tree.md) | 나무 |
 | [🌌 universe](words/universe.md) | 우주 |
+| [weapon](words/weapon.md) | 무기 |
 | [yard](words/yard.md) | 마당 |
 
 ## Adding a word
