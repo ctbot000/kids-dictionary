@@ -26,6 +26,7 @@ the **bold** part loudest.
 | [🍪 cookie](words/cookie.md) | 쿠키 |
 | [🐶 dog](words/dog.md) | 개 |
 | [duckling](words/duckling.md) | 아기 오리 |
+| [fin](words/fin.md) | 지느러미 |
 | [🐠 fish tank](words/fish-tank.md) | 어항 |
 | [flat](words/flat.md) | 평평한 |
 | [grown-up](words/grown-up.md) | 어른 |
@@ -46,6 +47,7 @@ the **bold** part loudest.
 | [✏️ pencil](words/pencil.md) | 연필 |
 | [pet](words/pet.md) | 반려동물 |
 | [piglet](words/piglet.md) | 아기 돼지 |
+| [📌 pin](words/pin.md) | 핀 |
 | [🍍 pineapple](words/pineapple.md) | 파인애플 |
 | [🎁 present](words/present.md) | 선물 |
 | [room](words/room.md) | 방 |
