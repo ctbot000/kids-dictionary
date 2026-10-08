@@ -12,6 +12,7 @@ the **bold** part loudest.
 
 | Word | 한국어 뜻 |
 | --- | --- |
+| [adult](words/adult.md) | 어른 |
 | [🍎 apple](words/apple.md) | 사과 |
 | [🍌 banana](words/banana.md) | 바나나 |
 | [☕ cafe](words/cafe.md) | 카페 |
@@ -21,6 +22,7 @@ the **bold** part loudest.
 | [huge](words/huge.md) | 아주 큰, 거대한 |
 | [invite](words/invite.md) | 초대하다 |
 | [🏝️ island](words/island.md) | 섬 |
+| [🧒 kid](words/kid.md) | 아이 |
 | [🥭 mango](words/mango.md) | 망고 |
 | [mine](words/mine.md) | 내 것, 광산 |
 | [🍊 orange](words/orange.md) | 오렌지, 주황색 |
