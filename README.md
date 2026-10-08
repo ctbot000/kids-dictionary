@@ -26,6 +26,7 @@ the **bold** part loudest.
 | [🐶 dog](words/dog.md) | 개 |
 | [duckling](words/duckling.md) | 아기 오리 |
 | [🐠 fish tank](words/fish-tank.md) | 어항 |
+| [flat](words/flat.md) | 평평한 |
 | [grown-up](words/grown-up.md) | 어른 |
 | [huge](words/huge.md) | 아주 큰, 거대한 |
 | [invite](words/invite.md) | 초대하다 |
