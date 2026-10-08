@@ -52,6 +52,7 @@ the **bold** part loudest.
 | [🌳 tree](words/tree.md) | 나무 |
 | [🌌 universe](words/universe.md) | 우주 |
 | [weapon](words/weapon.md) | 무기 |
+| [wrap](words/wrap.md) | 포장하다 |
 | [yard](words/yard.md) | 마당 |
 
 ## Adding a word
