@@ -20,6 +20,7 @@ the **bold** part loudest.
 | [☕ cafe](words/cafe.md) | 카페 |
 | [🐱 cat](words/cat.md) | 고양이 |
 | [☕ coffee](words/coffee.md) | 커피 |
+| [🍪 cookie](words/cookie.md) | 쿠키 |
 | [🐶 dog](words/dog.md) | 개 |
 | [duckling](words/duckling.md) | 아기 오리 |
 | [🐠 fish tank](words/fish-tank.md) | 어항 |
