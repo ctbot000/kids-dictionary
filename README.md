@@ -35,6 +35,7 @@ the **bold** part loudest.
 | [⛺ tent](words/tent.md) | 텐트 |
 | [trampoline](words/trampoline.md) | 트램펄린 |
 | [🌌 universe](words/universe.md) | 우주 |
+| [yard](words/yard.md) | 마당 |
 
 ## Adding a word
 
