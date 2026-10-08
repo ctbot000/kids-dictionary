@@ -38,6 +38,7 @@ the **bold** part loudest.
 | [pet](words/pet.md) | 반려동물 |
 | [piglet](words/piglet.md) | 아기 돼지 |
 | [🍍 pineapple](words/pineapple.md) | 파인애플 |
+| [🎁 present](words/present.md) | 선물 |
 | [⛺ tent](words/tent.md) | 텐트 |
 | [trampoline](words/trampoline.md) | 트램펄린 |
 | [🌌 universe](words/universe.md) | 우주 |
