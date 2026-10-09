@@ -51,6 +51,7 @@ the **bold** part loudest.
 | [📌 pin](words/pin.md) | 핀 |
 | [🍍 pineapple](words/pineapple.md) | 파인애플 |
 | [🎁 present](words/present.md) | 선물 |
+| [🪨 rock](words/rock.md) | 바위 |
 | [room](words/room.md) | 방 |
 | [⛺ tent](words/tent.md) | 텐트 |
 | [trampoline](words/trampoline.md) | 트램펄린 |
