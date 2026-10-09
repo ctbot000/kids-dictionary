@@ -59,6 +59,7 @@ the **bold** part loudest.
 | [trampoline](words/trampoline.md) | 트램펄린 |
 | [🌳 tree](words/tree.md) | 나무 |
 | [🌌 universe](words/universe.md) | 우주 |
+| [vehicle](words/vehicle.md) | 탈것 |
 | [weapon](words/weapon.md) | 무기 |
 | [wrap](words/wrap.md) | 포장하다 |
 | [yard](words/yard.md) | 마당 |
