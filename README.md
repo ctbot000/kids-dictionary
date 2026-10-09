@@ -49,6 +49,7 @@ the **bold** part loudest.
 | [pet](words/pet.md) | 반려동물 |
 | [piglet](words/piglet.md) | 아기 돼지 |
 | [📌 pin](words/pin.md) | 핀 |
+| [pond](words/pond.md) | 연못 |
 | [🍍 pineapple](words/pineapple.md) | 파인애플 |
 | [🎁 present](words/present.md) | 선물 |
 | [🪨 rock](words/rock.md) | 바위 |
