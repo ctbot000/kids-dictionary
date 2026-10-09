@@ -13,6 +13,7 @@ the **bold** part loudest.
 | Word | 한국어 뜻 |
 | --- | --- |
 | [adult](words/adult.md) | 어른 |
+| [amethyst](words/amethyst.md) | 자수정 |
 | [🍎 apple](words/apple.md) | 사과 |
 | [👶 baby](words/baby.md) | 아기 |
 | [🍌 banana](words/banana.md) | 바나나 |
@@ -24,9 +25,11 @@ the **bold** part loudest.
 | [🥣 cereal](words/cereal.md) | 시리얼 |
 | [☕ coffee](words/coffee.md) | 커피 |
 | [🍪 cookie](words/cookie.md) | 쿠키 |
+| [💎 diamond](words/diamond.md) | 다이아몬드 |
 | [🐶 dog](words/dog.md) | 개 |
 | [duckling](words/duckling.md) | 아기 오리 |
 | [earth](words/earth.md) | 지구 |
+| [emerald](words/emerald.md) | 에메랄드 |
 | [fin](words/fin.md) | 지느러미 |
 | [🐠 fish tank](words/fish-tank.md) | 어항 |
 | [flat](words/flat.md) | 평평한 |
@@ -55,6 +58,8 @@ the **bold** part loudest.
 | [🎁 present](words/present.md) | 선물 |
 | [🪨 rock](words/rock.md) | 바위 |
 | [room](words/room.md) | 방 |
+| [ruby](words/ruby.md) | 루비 |
+| [sapphire](words/sapphire.md) | 사파이어 |
 | [⛺ tent](words/tent.md) | 텐트 |
 | [trampoline](words/trampoline.md) | 트램펄린 |
 | [🌳 tree](words/tree.md) | 나무 |
