@@ -37,6 +37,7 @@ the **bold** part loudest.
 | [💍 jewelry](words/jewelry.md) | 보석 |
 | [🧒 kid](words/kid.md) | 아이 |
 | [🥭 mango](words/mango.md) | 망고 |
+| [mantis](words/mantis.md) | 사마귀 |
 | [🥛 milk](words/milk.md) | 우유 |
 | [mine](words/mine.md) | 내 것, 광산 |
 | [⛰️ mountain](words/mountain.md) | 산 |
