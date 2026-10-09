@@ -26,6 +26,7 @@ the **bold** part loudest.
 | [🍪 cookie](words/cookie.md) | 쿠키 |
 | [🐶 dog](words/dog.md) | 개 |
 | [duckling](words/duckling.md) | 아기 오리 |
+| [earth](words/earth.md) | 지구 |
 | [fin](words/fin.md) | 지느러미 |
 | [🐠 fish tank](words/fish-tank.md) | 어항 |
 | [flat](words/flat.md) | 평평한 |
