@@ -38,6 +38,7 @@ the **bold** part loudest.
 | [invite](words/invite.md) | 초대하다 |
 | [🏝️ island](words/island.md) | 섬 |
 | [💍 jewelry](words/jewelry.md) | 보석 |
+| [🛴 kick scooter](words/kick-scooter.md) | 킥보드 |
 | [🧒 kid](words/kid.md) | 아이 |
 | [🥭 mango](words/mango.md) | 망고 |
 | [mantis](words/mantis.md) | 사마귀 |
