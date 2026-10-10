@@ -69,6 +69,7 @@ the **bold** part loudest.
 | [🌳 tree](words/tree.md) | 나무 |
 | [🌌 universe](words/universe.md) | 우주 |
 | [vehicle](words/vehicle.md) | 탈것 |
+| [🕹️ video arcade](words/video-arcade.md) | 오락실 |
 | [weapon](words/weapon.md) | 무기 |
 | [wrap](words/wrap.md) | 포장하다 |
 | [yard](words/yard.md) | 마당 |
