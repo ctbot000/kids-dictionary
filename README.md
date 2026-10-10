@@ -62,6 +62,7 @@ the **bold** part loudest.
 | [ruby](words/ruby.md) | 루비 |
 | [sapphire](words/sapphire.md) | 사파이어 |
 | [⛺ tent](words/tent.md) | 텐트 |
+| [🔧 tool](words/tool.md) | 도구 |
 | [trampoline](words/trampoline.md) | 트램펄린 |
 | [🌳 tree](words/tree.md) | 나무 |
 | [🌌 universe](words/universe.md) | 우주 |
