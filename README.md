@@ -61,6 +61,7 @@ the **bold** part loudest.
 | [room](words/room.md) | 방 |
 | [ruby](words/ruby.md) | 루비 |
 | [sapphire](words/sapphire.md) | 사파이어 |
+| [⚔️ sword](words/sword.md) | 칼 |
 | [⛺ tent](words/tent.md) | 텐트 |
 | [🔧 tool](words/tool.md) | 도구 |
 | [trampoline](words/trampoline.md) | 트램펄린 |
