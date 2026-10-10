@@ -43,6 +43,7 @@ the **bold** part loudest.
 | [mantis](words/mantis.md) | 사마귀 |
 | [🥛 milk](words/milk.md) | 우유 |
 | [mine](words/mine.md) | 내 것, 광산 |
+| [🦟 mosquito](words/mosquito.md) | 모기 |
 | [⛰️ mountain](words/mountain.md) | 산 |
 | [often](words/often.md) | 자주 |
 | [🍊 orange](words/orange.md) | 오렌지, 주황색 |
