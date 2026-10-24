@@ -37,6 +37,7 @@ the **bold** part loudest.
 | [🐠 fish tank](words/fish-tank.md) | 어항 |
 | [flat](words/flat.md) | 평평한 |
 | [grown-up](words/grown-up.md) | 어른 |
+| [hide-and-seek](words/hide-and-seek.md) | 숨바꼭질 |
 | [huge](words/huge.md) | 아주 큰, 거대한 |
 | [invite](words/invite.md) | 초대하다 |
 | [🏝️ island](words/island.md) | 섬 |
