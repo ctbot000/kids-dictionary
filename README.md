@@ -31,6 +31,7 @@ the **bold** part loudest.
 | [duckling](words/duckling.md) | 아기 오리 |
 | [earth](words/earth.md) | 지구 |
 | [emerald](words/emerald.md) | 에메랄드 |
+| [fan](words/fan.md) | 선풍기 |
 | [fin](words/fin.md) | 지느러미 |
 | [🐠 fish tank](words/fish-tank.md) | 어항 |
 | [flat](words/flat.md) | 평평한 |
