@@ -46,6 +46,7 @@ the **bold** part loudest.
 | [🧒 kid](words/kid.md) | 아이 |
 | [🥭 mango](words/mango.md) | 망고 |
 | [mantis](words/mantis.md) | 사마귀 |
+| [metal](words/metal.md) | 금속 |
 | [🥛 milk](words/milk.md) | 우유 |
 | [mine](words/mine.md) | 내 것, 광산 |
 | [🦟 mosquito](words/mosquito.md) | 모기 |
