@@ -14,6 +14,7 @@ the **bold** part loudest.
 | --- | --- |
 | [adult](words/adult.md) | 어른 |
 | [amethyst](words/amethyst.md) | 자수정 |
+| [🎢 amusement park](words/amusement-park.md) | 놀이공원 |
 | [🍎 apple](words/apple.md) | 사과 |
 | [👶 baby](words/baby.md) | 아기 |
 | [🍌 banana](words/banana.md) | 바나나 |
