@@ -23,6 +23,7 @@ the **bold** part loudest.
 | [🏰 castle](words/castle.md) | 성 |
 | [🐱 cat](words/cat.md) | 고양이 |
 | [🥣 cereal](words/cereal.md) | 시리얼 |
+| [⏰ clock](words/clock.md) | 시계 |
 | [👕 clothing](words/clothing.md) | 옷 |
 | [☕ coffee](words/coffee.md) | 커피 |
 | [🍪 cookie](words/cookie.md) | 쿠키 |
