@@ -12,6 +12,7 @@ the **bold** part loudest.
 
 | Word | 한국어 뜻 |
 | --- | --- |
+| [adjective](words/adjective.md) | 꾸미는 말 |
 | [adult](words/adult.md) | 어른 |
 | [amethyst](words/amethyst.md) | 자수정 |
 | [🎢 amusement park](words/amusement-park.md) | 놀이공원 |
