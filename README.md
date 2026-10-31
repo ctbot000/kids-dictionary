@@ -38,6 +38,7 @@ the **bold** part loudest.
 | [fin](words/fin.md) | 지느러미 |
 | [🐠 fish tank](words/fish-tank.md) | 어항 |
 | [flat](words/flat.md) | 평평한 |
+| [🪰 fly](words/fly.md) | 날다, 파리 |
 | [grown-up](words/grown-up.md) | 어른 |
 | [hide-and-seek](words/hide-and-seek.md) | 숨바꼭질 |
 | [huge](words/huge.md) | 아주 큰, 거대한 |
