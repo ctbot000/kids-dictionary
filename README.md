@@ -43,6 +43,7 @@ the **bold** part loudest.
 | [hide-and-seek](words/hide-and-seek.md) | 숨바꼭질 |
 | [huge](words/huge.md) | 아주 큰, 거대한 |
 | [invite](words/invite.md) | 초대하다 |
+| [itchy](words/itchy.md) | 가려운 |
 | [🏝️ island](words/island.md) | 섬 |
 | [💍 jewelry](words/jewelry.md) | 보석 |
 | [🛴 kick scooter](words/kick-scooter.md) | 킥보드 |
