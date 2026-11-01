@@ -15,6 +15,9 @@ the same sounds in Hangul for a kid who cannot read IPA yet.
   /dɑːɡ/, so the same vowel looks the same in every entry.
 - Hangul that follows the English sounds, not the Korean loanword: *banana* is
   버**내**너, not 바나나. Bold the loudest syllable.
+- A word with one English syllable has no ˈ and is loud all through, so
+  bold all of its Hangul, however many letters it takes: *cat* is **캣**,
+  *tent* is **텐트**, *fly* is **플라이**.
 
 ## English meaning
 

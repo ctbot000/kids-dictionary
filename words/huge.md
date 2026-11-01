@@ -1,6 +1,6 @@
 # huge
 
-/hjuːdʒ/ · **휴**지
+/hjuːdʒ/ · **휴지**
 
 *adjective* · 형용사
 

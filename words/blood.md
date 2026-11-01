@@ -1,6 +1,6 @@
 # 🩸 blood
 
-/blʌd/ · 블**러**드
+/blʌd/ · **블러드**
 
 *noun* · 명사
 
@@ -10,8 +10,7 @@
 
 ## English meaning
 
-Blood is red.
-It is inside your body.
+Blood is the red stuff inside your body.
 It moves around your body all day.
 You may see blood when you get a cut.
 

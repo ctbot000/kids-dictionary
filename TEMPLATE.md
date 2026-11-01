@@ -1,6 +1,6 @@
 # {emoji} {word}
 
-/{IPA}/ · {Hangul, with the loudest syllable in **bold**}
+/{IPA}/ · {Hangul, with the loudest syllable in **bold** — all of it for a one-syllable word}
 
 *{part of speech}* · {품사}
 
